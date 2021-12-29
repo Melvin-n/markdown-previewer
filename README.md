@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+Markdown previewer made for freecodecamp frontend libraries course
+
+Hosted: https://gallant-edison-989988.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
